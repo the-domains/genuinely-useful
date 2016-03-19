@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[genuinely useful]]></title>
         <description><![CDATA[genuinely useful]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/genuinely-useful/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 08:14:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 08:31:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/genuinely-useful/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891ce5e6-1b23-4eb5-8152-1582525326a4.jpg">]]></description>
-            <link>undefinedbc28b2b2-1d23-4afb-aefa-67136cce6c60/index.html</link>
+            <title><![CDATA[get something up there]]></title>
+            <description><![CDATA[<article><h1>get something up there</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c96cb8-a5a7-4799-b682-deff07e9c8cb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/genuinely-useful/bc28b2b2-1d23-4afb-aefa-67136cce6c60/index.html</link>
             <guid isPermaLink="false">bc28b2b2-1d23-4afb-aefa-67136cce6c60</guid>
-            <pubDate>Sat, 19 Mar 2016 08:13:47 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 08:30:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
