@@ -1,0 +1,28 @@
+name: genuinely useful
+favicon: null
+layout_spectrum: 0.03014788986183703
+typography_spectrum: 0.3888025186024606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9631318016909063
+  lightness: 0.15166162536479533
+  saturation: 0.6425724246073514
+  rhythmicContrast: 0.4501991826109588
+purpose: []
